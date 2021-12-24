@@ -1,0 +1,12 @@
+Este es el archivo de prueba para conocer sobre el funcionamiento de Git. 
+
+Hasta este momento, hemos cambiado el nombre del usuario y el correo elecrtrónico 
+para ingresar los datos de la UNaDM.
+
+Debe contener una breve historia sobre algún tema de interés. 
+
+En realidad iniciaremos la historia este mes. 
+
+Comenzaremos hablando de una historia de vida. 
+
+Y ahora hablaremos de su vida encantadora.
